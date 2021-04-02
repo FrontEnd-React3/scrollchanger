@@ -1,0 +1,9 @@
+.footercont {
+  display: flex;
+  align-items: flex-end;
+}
+.footerdoc {
+  background: yellow;
+  width: 100%;
+  height: 30px;
+}
